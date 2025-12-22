@@ -7,7 +7,7 @@ Bu proje, Amazon.com.tr'de ürün arama, sepete ekleme ve dil değiştirme işle
 Testi çalıştırmak için bugbug.io CLI aracını kullanın:
 
 1. Kurulum:
-npm install -g @testrevolution/bugbug-cli && bugbug --set-token [SİZİN-TOKENINIZ]
+npm install -g @testrevolution/bugbug-cli && bugbug --set-token [SİZİN-TOKENINIZ] 
 
 2. Testi Çalıştır:
 bugbug uzaktan çalıştırma testi ae0d8dfd-8dcb-4f5b-90c2-f4369480af38
