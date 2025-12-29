@@ -5,7 +5,7 @@ Bu proje, Amazon.com.tr'de ürün arama, sepete ekleme ve dil değiştirme işle
 
 ## Testi Çalıştırma Komutları
 Testi çalıştırmak için bugbug.io CLI aracını kullanın:
-
+ 
 1. Kurulum:
 npm install -g @testrevolution/bugbug-cli && bugbug --set-token [SİZİN-TOKENINIZ] 
 
